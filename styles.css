@@ -2,6 +2,7 @@ body{
     background-color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    max-width: 100vw;
 }
 
 .video-container {
